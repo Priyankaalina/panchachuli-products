@@ -1,4 +1,9 @@
-<section class="journey-section">
+<section
+  class="journey-section"
+  {% if section.settings.bg_image %}
+    style="background-image:url('{{ section.settings.bg_image | image_url: width: 2000 }}');"
+  {% endif %}
+>
   <div class="page-width">
 
     <div class="section-header">
