@@ -118,6 +118,7 @@
         "benefit_nnkJGK": {
           "type": "benefit",
           "settings": {
+            "icon": "shopify://shop_images/no-chemical.png",
             "title": "No Preservatives or Additives",
             "text": "Pure, natural goodness in every jar."
           }
