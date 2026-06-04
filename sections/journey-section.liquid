@@ -48,8 +48,23 @@
 <style>
 
 .journey-section{
+  position:relative;
   padding:80px 0;
-  background:#F8F4EA;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  overflow:hidden;
+}
+
+.journey-overlay{
+  position:absolute;
+  inset:0;
+  background:rgba(248,244,234,0.88);
+}
+
+.journey-content{
+  position:relative;
+  z-index:2;
 }
 
 .section-header{
