@@ -220,7 +220,8 @@
       "name": "Journey Section",
       "settings": {
         "heading": "From Himalayan Villages To Your Table",
-        "subheading": "Bringing authentic Himalayan goodness directly from the mountains to your home."
+        "subheading": "Bringing authentic Himalayan goodness directly from the mountains to your home.",
+        "bg_image": "shopify://shop_images/bg-image.png"
       }
     }
   },
