@@ -96,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/pure.png",
-            "title": "Column",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
