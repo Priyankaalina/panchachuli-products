@@ -26,3 +26,36 @@
 .image-with-text__content p {
   line-height: 1.8;
 }
+
+/* Heading */
+.image-with-text__heading {
+  color: #213B2D !important;
+  line-height: 1.1 !important;
+  position: relative;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+
+/* Gold line */
+.image-with-text__heading:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 70px;
+  height: 3px;
+  background: #B68C42;
+}
+
+/* Text */
+.image-with-text__content p {
+  line-height: 1.8;
+  color: #6A645C;
+}
+
+/* Button */
+.image-with-text__content .button {
+  background: #2F5A3E !important;
+  border-radius: 8px;
+  padding: 14px 28px;
+}
