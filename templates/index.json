@@ -59,83 +59,27 @@
         "show_text_below": false
       }
     },
-    "multicolumn_KnRPxj": {
-      "type": "multicolumn",
+    "trust_bar_T7xjkM": {
+      "type": "trust-bar",
       "blocks": {
-        "column_tTbAGe": {
-          "type": "column",
+        "item_NN3rFB": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/pure.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GaEFw7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/lab_tested_1.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Lrbbny": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/pure.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ygYjPY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/pure.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "icon": "shopify://shop_images/eco-friendly_1.png",
+            "heading": "100% Pure",
+            "text": "Pure & natural products"
           }
         }
       },
       "block_order": [
-        "column_tTbAGe",
-        "column_GaEFw7",
-        "column_Lrbbny",
-        "column_ygYjPY"
+        "item_NN3rFB"
       ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "Button label",
-        "button_link": "",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 40
-      }
-    },
-    "trust_bar_T7xjkM": {
-      "type": "trust-bar",
       "name": "Trust Bar",
       "settings": {}
     }
   },
   "order": [
     "image_banner_99hcer",
-    "multicolumn_KnRPxj",
     "trust_bar_T7xjkM"
   ]
 }
