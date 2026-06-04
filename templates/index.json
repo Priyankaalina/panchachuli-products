@@ -107,11 +107,12 @@
     "why_choose_YaE44i": {
       "type": "why-choose",
       "blocks": {
-        "benefit_hJyXp4": {
+        "benefit_grTz6V": {
           "type": "benefit",
           "settings": {
-            "title": "Small Batch Production",
-            "text": "Carefully crafted for consistent quality and freshness."
+            "icon": "shopify://shop_images/home_1.png",
+            "title": "Directly From Himalayan Villagers",
+            "text": "Supporting local communities and traditional dairy practices"
           }
         },
         "benefit_nnkJGK": {
@@ -121,23 +122,24 @@
             "text": "Pure, natural goodness in every jar."
           }
         },
-        "benefit_grTz6V": {
+        "benefit_hJyXp4": {
           "type": "benefit",
           "settings": {
-            "title": "Directly From Himalayan Villagers",
-            "text": "Supporting local communities and traditional dairy practices"
+            "title": "Small Batch Production",
+            "text": "Carefully crafted for consistent quality and freshness."
           }
         }
       },
       "block_order": [
-        "benefit_hJyXp4",
+        "benefit_grTz6V",
         "benefit_nnkJGK",
-        "benefit_grTz6V"
+        "benefit_hJyXp4"
       ],
       "name": "Why Choose Panchachuli",
       "settings": {
         "heading": "Why Choose Panchachuli Products?",
-        "image": "shopify://shop_images/women_with_cow_d526883b-8edb-4c3a-819a-d00e67cf500c.png"
+        "image": "shopify://shop_images/women_with_cow_d526883b-8edb-4c3a-819a-d00e67cf500c.png",
+        "badge_1": "shopify://shop_images/village.png"
       }
     }
   },
