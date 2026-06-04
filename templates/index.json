@@ -62,6 +62,14 @@
     "trust_bar_T7xjkM": {
       "type": "trust-bar",
       "blocks": {
+        "item_EytEz8": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/lab.png",
+            "heading": "100% Pure",
+            "text": "Pure & natural products"
+          }
+        },
         "item_NN3rFB": {
           "type": "item",
           "settings": {
@@ -72,6 +80,7 @@
         }
       },
       "block_order": [
+        "item_EytEz8",
         "item_NN3rFB"
       ],
       "name": "Trust Bar",
