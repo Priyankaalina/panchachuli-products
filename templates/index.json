@@ -85,12 +85,21 @@
             "heading": "Himalayan Sourced",
             "text": "From village of Uttrarakhand"
           }
+        },
+        "item_eXX6yA": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/express-delivery.png",
+            "heading": "Pan India Delivery",
+            "text": "Fast & safe delivery"
+          }
         }
       },
       "block_order": [
         "item_NN3rFB",
         "item_EytEz8",
-        "item_UcF7cr"
+        "item_UcF7cr",
+        "item_eXX6yA"
       ],
       "name": "Trust Bar",
       "settings": {}
