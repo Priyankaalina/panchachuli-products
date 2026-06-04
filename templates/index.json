@@ -106,6 +106,34 @@
     },
     "why_choose_YaE44i": {
       "type": "why-choose",
+      "blocks": {
+        "benefit_hJyXp4": {
+          "type": "benefit",
+          "settings": {
+            "title": "Small Batch Production",
+            "text": "Carefully crafted for consistent quality and freshness."
+          }
+        },
+        "benefit_nnkJGK": {
+          "type": "benefit",
+          "settings": {
+            "title": "No Preservatives or Additives",
+            "text": "Pure, natural goodness in every jar."
+          }
+        },
+        "benefit_grTz6V": {
+          "type": "benefit",
+          "settings": {
+            "title": "Directly From Himalayan Villagers",
+            "text": "Supporting local communities and traditional dairy practices"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_hJyXp4",
+        "benefit_nnkJGK",
+        "benefit_grTz6V"
+      ],
       "name": "Why Choose Panchachuli",
       "settings": {
         "heading": "Why Choose Panchachuli Products?",
