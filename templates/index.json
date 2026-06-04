@@ -197,6 +197,7 @@
         "step_7dqLfj": {
           "type": "step",
           "settings": {
+            "icon": "shopify://shop_images/Quality_Assured.png",
             "heading": "Quality Assured",
             "text": "Every batch is carefully tested to ensure purity, consistency, and freshness."
           }
