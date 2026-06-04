@@ -62,14 +62,6 @@
     "trust_bar_T7xjkM": {
       "type": "trust-bar",
       "blocks": {
-        "item_EytEz8": {
-          "type": "item",
-          "settings": {
-            "icon": "shopify://shop_images/lab.png",
-            "heading": "100% Pure",
-            "text": "Pure & natural products"
-          }
-        },
         "item_NN3rFB": {
           "type": "item",
           "settings": {
@@ -77,11 +69,19 @@
             "heading": "100% Pure",
             "text": "Pure & natural products"
           }
+        },
+        "item_EytEz8": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/lab.png",
+            "heading": "Lab Tested",
+            "text": "Ensuring highest quality"
+          }
         }
       },
       "block_order": [
-        "item_EytEz8",
-        "item_NN3rFB"
+        "item_NN3rFB",
+        "item_EytEz8"
       ],
       "name": "Trust Bar",
       "settings": {}
