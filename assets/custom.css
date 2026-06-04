@@ -5,3 +5,27 @@
   
     margin-bottom: 0px !important;
 }
+.image-with-text {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.image-with-text__media {
+  border-radius: 16px !important;
+  overflow: hidden !important;
+  box-shadow: 0 15px 40px rgba(0,0,0,.08) !important;
+}
+
+.image-with-text__content h2 {
+  color: #213B2D !important;
+  line-height: 1.1 !important;
+}
+
+.image-with-text__content .button {
+  border-radius: 8px;
+  padding: 14px 28px;
+}
+
+.image-with-text__content p {
+  line-height: 1.8;
+}
