@@ -126,6 +126,7 @@
         "benefit_hJyXp4": {
           "type": "benefit",
           "settings": {
+            "icon": "shopify://shop_images/quality.png",
             "title": "Small Batch Production",
             "text": "Carefully crafted for consistent quality and freshness."
           }
