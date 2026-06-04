@@ -126,10 +126,16 @@
         "padding_top": 0,
         "padding_bottom": 40
       }
+    },
+    "trust_bar_T7xjkM": {
+      "type": "trust-bar",
+      "name": "Trust Bar",
+      "settings": {}
     }
   },
   "order": [
     "image_banner_99hcer",
-    "multicolumn_KnRPxj"
+    "multicolumn_KnRPxj",
+    "trust_bar_T7xjkM"
   ]
 }
