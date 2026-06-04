@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/banner_image.png",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 0,
             "heading": "<p><strong>Pure. Organic<br/>From The Himalayas,<br/>With Purity & Care</strong><br/><br/></p>",
             "heading_size": "h1",
             "subheading": "",
