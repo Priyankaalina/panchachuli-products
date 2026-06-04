@@ -141,7 +141,8 @@
       "settings": {
         "heading": "Why Choose Panchachuli Products?",
         "image": "shopify://shop_images/women_with_cow_d526883b-8edb-4c3a-819a-d00e67cf500c.png",
-        "badge_1": "shopify://shop_images/organic_1.png"
+        "badge_1": "shopify://shop_images/organic_1.png",
+        "badge_2": "shopify://shop_images/no-preservatives.png"
       }
     }
   },
