@@ -146,76 +146,6 @@
         "badge_3": "shopify://shop_images/no-preservatives.png"
       }
     },
-    "featured_product_T7Kacq": {
-      "type": "featured-product",
-      "blocks": {
-        "text_83yWnp": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_JdEtwG": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_zXYc7c": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_RAFP4L": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_iiJhy8": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_xgPxHW": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_EXwttA": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_83yWnp",
-        "title_JdEtwG",
-        "price_zXYc7c",
-        "variant_picker_RAFP4L",
-        "quantity_selector_iiJhy8",
-        "buy_buttons_xgPxHW",
-        "share_EXwttA"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "panchachuli-pahadi-buffalo-ghee",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_nJthbx": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -250,7 +180,6 @@
     "image_banner_99hcer",
     "trust_bar_T7xjkM",
     "why_choose_YaE44i",
-    "featured_product_T7Kacq",
     "featured_collection_nJthbx"
   ]
 }
