@@ -174,12 +174,57 @@
         "badge_2": "shopify://shop_images/high-quality.png",
         "badge_3": "shopify://shop_images/no-preservatives.png"
       }
+    },
+    "journey_section_9ErUzd": {
+      "type": "journey-section",
+      "blocks": {
+        "step_CDpY99": {
+          "type": "step",
+          "settings": {
+            "heading": "Sourced From Himalayan Villages",
+            "text": "Milk is collected from trusted dairy families in the pristine Himalayan region of Uttarakhand."
+          }
+        },
+        "step_ggKER3": {
+          "type": "step",
+          "settings": {
+            "heading": "Traditionally Crafted",
+            "text": "Prepared using time-honored village methods passed down through generations"
+          }
+        },
+        "step_7dqLfj": {
+          "type": "step",
+          "settings": {
+            "heading": "Quality Assured",
+            "text": "Every batch is carefully tested to ensure purity, consistency, and freshness."
+          }
+        },
+        "step_Pk9gCa": {
+          "type": "step",
+          "settings": {
+            "heading": "Delivered Across India",
+            "text": "Bringing authentic Himalayan goodness straight to your doorstep."
+          }
+        }
+      },
+      "block_order": [
+        "step_CDpY99",
+        "step_ggKER3",
+        "step_7dqLfj",
+        "step_Pk9gCa"
+      ],
+      "name": "Journey Section",
+      "settings": {
+        "heading": "From Munsyari Village To Your Table",
+        "subheading": "Bringing authentic Himalayan goodness directly from the mountains to your home."
+      }
     }
   },
   "order": [
     "image_banner_99hcer",
     "trust_bar_T7xjkM",
     "featured_collection_nJthbx",
-    "why_choose_YaE44i"
+    "why_choose_YaE44i",
+    "journey_section_9ErUzd"
   ]
 }
