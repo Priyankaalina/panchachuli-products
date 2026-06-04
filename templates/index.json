@@ -108,7 +108,8 @@
       "type": "why-choose",
       "name": "Why Choose Panchachuli",
       "settings": {
-        "heading": "Why Choose Panchachuli Products?"
+        "heading": "Why Choose Panchachuli Products?",
+        "image": "shopify://shop_images/women_with_cow.png"
       }
     }
   },
