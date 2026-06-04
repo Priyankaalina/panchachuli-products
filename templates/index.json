@@ -223,6 +223,62 @@
         "subheading": "Bringing authentic Himalayan goodness directly from the mountains to your home.",
         "bg_image": "shopify://shop_images/bg-image.png"
       }
+    },
+    "image_with_text_G97LTB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_N9GGaf": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR STORY",
+            "heading_size": "h2"
+          }
+        },
+        "caption_qXMGHP": {
+          "type": "caption",
+          "settings": {
+            "caption": "Rooted In The Himalayas",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        },
+        "text_wDDWi6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Panchachuli Products was born from a simple mission—to bring the authentic taste of Himalayan village-made ghee to homes across India.</p><p>We work closely with families in the Munsyari region of Uttarakhand, where traditional dairy practices have been passed down through generations. The ghee is carefully prepared by local villagers using time-honored methods, preserving its natural aroma, richness, and authenticity.<br/></p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_6wMgF3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_N9GGaf",
+        "caption_qXMGHP",
+        "text_wDDWi6",
+        "button_6wMgF3"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -230,6 +286,7 @@
     "trust_bar_T7xjkM",
     "featured_collection_nJthbx",
     "why_choose_YaE44i",
-    "journey_section_9ErUzd"
+    "journey_section_9ErUzd",
+    "image_with_text_G97LTB"
   ]
 }
