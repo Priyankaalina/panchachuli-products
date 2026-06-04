@@ -252,7 +252,7 @@
         "button_6wMgF3": {
           "type": "button",
           "settings": {
-            "button_label": "Learn More",
+            "button_label": "Discover Our Story",
             "button_link": "shopify://pages/our-story",
             "button_style_secondary": false
           }
