@@ -205,6 +205,7 @@
         "step_Pk9gCa": {
           "type": "step",
           "settings": {
+            "icon": "shopify://shop_images/Delivered.png",
             "heading": "Delivered Across India",
             "text": "Bringing authentic Himalayan goodness straight to your doorstep."
           }
