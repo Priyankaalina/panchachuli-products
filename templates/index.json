@@ -189,6 +189,7 @@
         "step_ggKER3": {
           "type": "step",
           "settings": {
+            "icon": "shopify://shop_images/Traditionally_Crafted.png",
             "heading": "Traditionally Crafted",
             "text": "Prepared using time-honored village methods passed down through generations"
           }
