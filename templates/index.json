@@ -103,10 +103,18 @@
       ],
       "name": "Trust Bar",
       "settings": {}
+    },
+    "why_choose_YaE44i": {
+      "type": "why-choose",
+      "name": "Why Choose Panchachuli",
+      "settings": {
+        "heading": "Why Choose Panchachuli Products?"
+      }
     }
   },
   "order": [
     "image_banner_99hcer",
-    "trust_bar_T7xjkM"
+    "trust_bar_T7xjkM",
+    "why_choose_YaE44i"
   ]
 }
