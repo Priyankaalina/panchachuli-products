@@ -9,41 +9,54 @@
  */
 {
   "sections": {
-    "slideshow_VFftk3": {
-      "type": "slideshow",
+    "image_banner_99hcer": {
+      "type": "image-banner",
       "blocks": {
-        "slide_ncKhPB": {
-          "type": "slide",
+        "heading_6zxNet": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/banner_image.png",
-            "image_overlay_opacity": 0,
-            "heading": "<p><strong>Pure. Organic<br/>From The Himalayas,<br/>With Purity & Care</strong><br/><br/></p>",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "SHOP Now",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "middle-left",
-            "text_alignment": "left",
-            "text_alignment_mobile": "center",
-            "color_scheme": ""
+            "heading": "<p><strong>Pure. Organic<br/>From The Himalayas,<br/>With Purity & Care.</strong></p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_BHAeTm": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_8KmDqr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Explore All Products",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "slide_ncKhPB"
+        "heading_6zxNet",
+        "text_BHAeTm",
+        "buttons_8KmDqr"
       ],
-      "name": "t:sections.slideshow.presets.name",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "numbers",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "image": "shopify://shop_images/banner_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "desktop_content_position": "top-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "left",
+        "show_text_below": false
       }
     },
     "rich_text": {
@@ -60,6 +73,7 @@
       "block_order": [
         "heading"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -127,63 +141,12 @@
         "padding_top": 0,
         "padding_bottom": 68
       }
-    },
-    "image_banner_99hcer": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_6zxNet": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Pure. Organic<br/>From The Himalayas,<br/>With Purity & Care.</strong></p>",
-            "heading_size": "h1"
-          }
-        },
-        "text_BHAeTm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8KmDqr": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Explore All Products",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_6zxNet",
-        "text_BHAeTm",
-        "buttons_8KmDqr"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/banner_image.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "image_behavior": "none",
-        "desktop_content_position": "top-left",
-        "desktop_content_alignment": "left",
-        "show_text_box": false,
-        "color_scheme": "",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "left",
-        "show_text_below": false
-      }
     }
   },
   "order": [
-    "slideshow_VFftk3",
+    "image_banner_99hcer",
     "rich_text",
     "collage-0",
-    "featured-collection",
-    "image_banner_99hcer"
+    "featured-collection"
   ]
 }
