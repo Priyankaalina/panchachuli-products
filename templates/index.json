@@ -62,6 +62,16 @@
     "multicolumn_KnRPxj": {
       "type": "multicolumn",
       "blocks": {
+        "column_tTbAGe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pure.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_GaEFw7": {
           "type": "column",
           "settings": {
@@ -93,6 +103,7 @@
         }
       },
       "block_order": [
+        "column_tTbAGe",
         "column_GaEFw7",
         "column_Lrbbny",
         "column_ygYjPY"
