@@ -77,11 +77,20 @@
             "heading": "Lab Tested",
             "text": "Ensuring highest quality"
           }
+        },
+        "item_UcF7cr": {
+          "type": "item",
+          "settings": {
+            "icon": "shopify://shop_images/mountain.png",
+            "heading": "Himalayan Sourced",
+            "text": "From village of Uttrarakhand"
+          }
         }
       },
       "block_order": [
         "item_NN3rFB",
-        "item_EytEz8"
+        "item_EytEz8",
+        "item_UcF7cr"
       ],
       "name": "Trust Bar",
       "settings": {}
