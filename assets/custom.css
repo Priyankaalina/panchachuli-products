@@ -60,6 +60,12 @@
   padding: 14px 28px;
 }
 @media screen and (max-width: 768px) {
+
+.banner__media.media img {
+  object-position: right center;
+}
+}
+@media screen and (max-width: 530px) {
   h2.banner__heading.inline-richtext.h1 {
     font-size: 23px;
 }
@@ -68,7 +74,5 @@
     padding: 0 12px;
     min-height: 38px;
 }
-.banner__media.media img {
-  object-position: right center;
-}
+
 }
