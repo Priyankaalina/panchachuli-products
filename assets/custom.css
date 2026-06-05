@@ -59,3 +59,13 @@
   border-radius: 8px;
   padding: 14px 28px;
 }
+@media screen and (max-width: 768px) {
+  h2.banner__heading.inline-richtext.h1 {
+    font-size: 23px;
+}
+  .banner__buttons.banner__buttons--multiple a {
+    font-size: 12px;
+    padding: 0 12px;
+    min-height: 38px;
+}
+}
