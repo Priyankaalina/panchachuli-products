@@ -62,7 +62,7 @@
 @media screen and (max-width: 768px) {
 
 .banner__media.media img {
-  object-position: right center;
+  object-position: 75% center;
 }
 }
 @media screen and (max-width: 530px) {
